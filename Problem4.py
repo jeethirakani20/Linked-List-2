@@ -1,4 +1,4 @@
-#T.C O(n)
+#T.C O(m + n) as there are two linkedlists
 #S.C. O(n)
 
 class Solution:
